@@ -5,7 +5,7 @@
     "@types/node": "^13.7.4",
     "@types/uuid": "^3.4.7",
     "domain": "file:../domain",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "uuid": "^3.4.0"
   },
   "devDependencies": {
