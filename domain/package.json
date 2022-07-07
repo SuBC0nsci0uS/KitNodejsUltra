@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@types/uuid": "^3.4.7",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "scripts": {
     "test": "mocha -r ts-node/register test/**/*.test.ts",
